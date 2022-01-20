@@ -1,6 +1,6 @@
 # DjangoEmployee-Noserializer
 
-## Project Name - djangoEmployee
+## Project Name - DjangoEmployee-Noserializer
 
 It is a server side setup built using **Django** which is a Python-based web framework without using serializers.
 
